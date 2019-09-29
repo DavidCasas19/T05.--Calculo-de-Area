@@ -1,0 +1,6 @@
+C:\Users\david\source\repos\Calculo\Calculo\bin\Debug\Calculo.exe.config
+C:\Users\david\source\repos\Calculo\Calculo\bin\Debug\Calculo.exe
+C:\Users\david\source\repos\Calculo\Calculo\bin\Debug\Calculo.pdb
+C:\Users\david\source\repos\Calculo\Calculo\obj\Debug\Calculo.csprojAssemblyReference.cache
+C:\Users\david\source\repos\Calculo\Calculo\obj\Debug\Calculo.exe
+C:\Users\david\source\repos\Calculo\Calculo\obj\Debug\Calculo.pdb
